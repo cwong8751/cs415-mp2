@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/UI/WBP_HealthBar.uasset",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/mp2/LearningKit_Games_Showcase1.umap",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/mp2/Maps/LearningKit_Games_Showcase1.umap",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/mp2/Maps/LearningKit_Games_Showcase.umap"
+			]
+		}
+	]
+}
