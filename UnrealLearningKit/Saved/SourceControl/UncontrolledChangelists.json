@@ -8,7 +8,14 @@
 				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/UI/WBP_HealthBar.uasset",
 				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/mp2/LearningKit_Games_Showcase1.umap",
 				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/mp2/Maps/LearningKit_Games_Showcase1.umap",
-				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/mp2/Maps/LearningKit_Games_Showcase.umap"
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/mp2/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/Textures/T_Health.uasset",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/MaterialLibrary/M_HealthPack.uasset",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_HealthPack.uasset",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_HealthPackSpawner.uasset",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/carl/Documents/GitHub/cs415-mp2/UnrealLearningKit/Content/LearningKit_Games/UI/WBP_GameOver.uasset"
 			]
 		}
 	]
